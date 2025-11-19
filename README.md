@@ -73,7 +73,7 @@ sudo ./install-minecraft.sh
 
 ```bash
 # Скачать скрипт
-wget https://raw.githubusercontent.com/ваш-username/репозиторий/main/install-minecraft.sh
+wget https://raw.githubusercontent.com/w78flezeex/minecraft-serrver-install/refs/heads/main/install-minecraft.sh
 
 # Установить права
 chmod +x install-minecraft.sh
