@@ -43,7 +43,7 @@
 
 1. Скачайте скрипт:
 ```bash
-wget https://raw.githubusercontent.com/ваш-username/репозиторий/main/install-minecraft.sh
+wget https://raw.githubusercontent.com/w78flezeex/minecraft-serrver-install/refs/heads/main/install-minecraft.sh
 ```
 
 Или клонируйте репозиторий:
